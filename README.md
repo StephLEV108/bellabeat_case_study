@@ -40,3 +40,5 @@ it identifies durable behavioral structures only.
 ## Data
 FitBit Fitness Tracker Data (Möbius, Kaggle, CC0 Public Domain).
 33 users verified (vs 30 announced), 2016-04-12 to 2016-05-12.
+!Night wearing
+!Weekly activity by segment
