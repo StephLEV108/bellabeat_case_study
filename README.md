@@ -19,7 +19,7 @@ executable notebook (data audit, cleaning, analysis, figures).
 - Two natural daily contact windows: lunch (12-14) and evening
   wind-down (20-22).
 
-!Night wearing
+!share_fig3_night.png
 
 !Weekly activity by segment
 
