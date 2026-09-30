@@ -48,14 +48,14 @@ Of 33 users active by day:
 - 4 (12%) wore it irregularly
 - 10 (30%) became regular night wearers
 
-!Night wearing
+![Night](share_fig3_night.png)
 
 The decisive finding is what happens AFTER abandonment. Users who
 dropped sleep tracking saw their daily activity decay 35% in three
 weeks, while all other segments held their level within ~10% over
 the whole month.
 
-!Weekly activity by segment
+![Week](share_fig1_segments.png)
 
 Night-wearing is an early marker of overall disengagement. The
 users who never wore the device at night are NOT disengaged —
@@ -83,7 +83,7 @@ device at night; the completes are the platform's advocates.
 - 44% of recorded nights are under 7 hours of sleep — and that
   counts only the motivated sleep-trackers.
 
-!Promise vs reality
+![Promise](share_fig4_gap.png)
 
 For most user-days, the promise "meet your goals" is not met. This
 gap between marketing benchmarks and actual behavior is not a
@@ -91,7 +91,7 @@ failure of users — it is the industry's unaddressed tension.
 
 ### 3.4 Two natural contact windows exist in every day
 
-!Contact windows
+![Contact](share_fig5_windows.png)
 
 Activity peaks at 6 pm and collapses after 8 pm. Two windows
 combine availability and low activity: the lunch plateau (12-14)
