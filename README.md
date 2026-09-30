@@ -19,19 +19,19 @@ executable notebook (data audit, cleaning, analysis, figures).
 - Two natural daily contact windows: lunch (12-14) and evening
   wind-down (20-22).
 
-!share_fig3_night.png
+![Night](share_fig3_night.png)
 
-!Weekly activity by segment
+![WEEK](share_fig1_segments.png)
 
-!Promise vs reality
+![Promise](share_fig4_gap.png)
 
 ## Deliverables
    File | Role |
  |---|---|
  | REPORT.html | Executive report, self-contained with all figures |
- | __notebook_source__.ipynb | Complete executable notebook |
- | ASK.md → PREPARE.md → CLEANING_LOG.md → ANALYZE.md → SOURCES.md | Full analytical chain, every number traceable |
- | REPORT.md | Report in plain markdown |
+ |[Notebook](__notebook_source__.ipynb)| Complete executable notebook |
+ |[Ask](ASK.md) → [Prepare](PREPARE.md) → [Clean](CLEANING_LOG.md) → [Analyze](ANALYZE.md) → [Sources](SOURCES.md)| Full analytical chain, every number traceable |
+ |[Report](REPORT.md)|| Report in plain markdown |
  | 7 PNG figures | Exploration-grade and presentation-grade charts |
 
 ## Method
