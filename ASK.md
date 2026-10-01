@@ -25,7 +25,9 @@ serious constraints, declared here deliberately before analysis begins:
 
 - Age: 2016 — no conclusion about current market trends can be drawn
   from it directly.
-- Sample: 30 users — not representative.
+- Sample: 33 users, machine-verified (the Kaggle description announces
+  30 — the discrepancy is itself a documented data-quality finding,
+  not a defect to hide) — not representative.
 - Demographics: no documented gender — extrapolation to Bellabeat's
   female customer base is a working hypothesis, not an established
   fact.
@@ -63,7 +65,8 @@ cited in the Share phase.
 ## 5. Stakeholders
 - Urška Sršen (CCO): seeking growth and differentiation opportunities.
 - Sando Mur (co-founder, mathematician): will demand methodological
-  rigor — which is why data limitations are declared at this stage.
+  rigor — which is why data limitations are declared at this stage and
+  segmentation rules are stated explicitly in code.
 - Marketing Analytics team: will turn recommendations into campaigns.
 - Executive team: will decide budget allocation.
 
@@ -81,3 +84,4 @@ cited in the Share phase.
 - Demonstrate causality (observational data only).
 - Read users' motivations or intentions — the data contains behavior,
   not psychology.
+
